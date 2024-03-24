@@ -19,7 +19,7 @@ global.themeemoji = '🧩'
 global.wm = "SADAD botz inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
+global.link = 'http://sadad-pa.co'
 
 //custom prefix
 global.prefa = ['!']
